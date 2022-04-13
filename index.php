@@ -33,5 +33,6 @@
         }
 
         print_r($arrayOfProducts);
+        echo "HEllo, world!";
 
 
